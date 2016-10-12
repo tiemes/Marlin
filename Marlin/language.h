@@ -75,7 +75,7 @@
 
 #ifdef CUSTOM_MACHINE_NAME
   #undef  MACHINE_NAME
-  #define MACHINE_NAME CUSTOM_MACHINE_NAME
+  #define MACHINE_NAME "helloBEEprusa"
 #else
   #ifdef DEFAULT_MACHINE_NAME
     #undef  MACHINE_NAME
